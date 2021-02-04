@@ -2,9 +2,11 @@
 
 ## Background
 
-We explore the the behavioral patterns of developers. We study several interesting problems, including the 996 working hour system and malicious account detection.
+We explore the the behavioral patterns of developers. We study several interesting problems, including the 996 working hour system, user interactions and malicious account detection.
 
 ## Publications
+
+* Erzheng Fu, Yingqiu Zhuang, Jianxi Zhang, Jiayun Zhang and Yang Chen*. Understanding the User Interactions on GitHub: A Social Network Perspective. Proc. of the IEEE 24th International Conference on Computer Supported Cooperative Work in Design (CSCWD'21), Dalian, China, May 2021.
 
 * Jiayun Zhang, Yang Chen*, Qingyuan Gong, Aaron Yi Ding, Yu Xiao, Xin Wang, Pan Hui. Understanding the Working Time of Developers in IT Companies in China and the United States. To appear: IEEE Software. (DOI: 10.1109/MS.2020.2988022)
 
